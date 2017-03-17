@@ -1,4 +1,4 @@
-# TodoMVC App Template
+# TodoMVC App Template （使用前请您先在根目录打开命令窗口，执行  npm install  命令--安装angualar和todomvc）
 
 > Template used for creating [TodoMVC](http://todomvc.com) apps
 
